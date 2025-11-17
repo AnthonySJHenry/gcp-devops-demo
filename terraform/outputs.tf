@@ -1,0 +1,1 @@
+output "project_id" {}
